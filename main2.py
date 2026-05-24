@@ -1,0 +1,2 @@
+import textout
+textout.text()
